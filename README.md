@@ -15,7 +15,7 @@ This is a simple command-line YouTube downloader built with Python using the Pyt
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/youtube-downloader.git
+    git clone https://github.com/kibeert/solid-memory
     ```
 
 2. Navigate to the project directory:
